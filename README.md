@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @ozhanghe
-- 👀 I’m interested in Java, Minecraft, and Operating System Development
-- 🌱 I’m currently learning C++, C, and x86 Assembly
+- 👀 I do lots of things
